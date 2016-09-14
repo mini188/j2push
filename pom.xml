@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.j2push</groupId>
-  <artifactId>push-server</artifactId>
+  <groupId>org.j2server</groupId>
+  <artifactId>j2push</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>j2push-server</name>
+  <name>j2push</name>
   <url>http://maven.apache.org</url>
 
   <properties>
